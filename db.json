@@ -2,11 +2,11 @@
     "users": [
   {
     "id": 1,
-    "first_name": "Hamlen",
-    "last_name": "Briddle",
-    "email": "hbriddle0@csmonitor.com",
+    "first_name": "pramit",
+    "last_name": "yolo",
+    "email": "pramit@yolo.com",
     "gender": "Male",
-    "ip_address": "189.137.99.150"
+    "ip_address": "192.168.1.1"
   },
   {
     "id": 2,
